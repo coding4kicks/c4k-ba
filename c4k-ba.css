@@ -21,6 +21,10 @@ body {
   min-height: 200px;
 }
 
+.writing a{
+  margin: -20px 0 0 50px;
+}
+
 h1 {
   font-size: 40pt;
   margin: 0px;
@@ -66,4 +70,9 @@ a:hover {
 
 a > h3:hover {
   color: #ddd;
+}
+
+.prog-lang {
+  color: #3333DD;
+  font-size: 1.2em;
 }
