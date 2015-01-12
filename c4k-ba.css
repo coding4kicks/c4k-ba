@@ -10,7 +10,7 @@
 }
 
 body {
-  background: black;
+  background: #222233;
 }
 
 .title {
@@ -28,8 +28,7 @@ body {
 h1 {
   font-size: 40pt;
   margin: 0px;
-  font-family: 'dijkstraregular';
-  color: #3333DD;
+  color: #bbaaaa;
 
 }
 
@@ -39,7 +38,7 @@ h1 {
 }
 
 h2 {
-  color: #EEE;
+  color: #bbaaaa;
 }
 
 .col-left, .col-right {
@@ -55,8 +54,10 @@ h3 {
 
 p, pre {
   width: 400px;
-  color: #EEE;
+  color: #fff;
   padding-left: 20px;
+  line-height: 1.2;
+  font-size: 1.2em;
 }
 
 a {
